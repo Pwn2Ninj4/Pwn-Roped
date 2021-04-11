@@ -1,5 +1,5 @@
 # Pwn-Roped
-Script para generar exploits de pwn para retos de ROP
+Script to generate pwn exploits for ROP challenges
 
-<p><h1>Uso:</p></h1>
-<p>Se ejecuta el script pasándole dos argumentos, el primer argumento el binario a explotar y el segundo argumento la versión de libc, luego de eso se generara una plantilla de exploit para empezar a escribir el exploit de ROP en base a la plantilla ya dada
+## Usage:
+The script is executed by passing it two arguments, the first argument the binary to be exploited and the second argument the version of libc, after that an exploit template will be generated to start writing the ROP exploit based on the template already given
